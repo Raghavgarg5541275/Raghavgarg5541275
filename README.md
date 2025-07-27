@@ -9,7 +9,6 @@
   <a href="https://linktr.ee/raghav_garg_ynr"><img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=Linktree&logoColor=white"/></a>
 </p>
 
----
 
 ### 👨‍💻 About Me
 
