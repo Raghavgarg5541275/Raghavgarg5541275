@@ -20,6 +20,10 @@
 - 🏆 Leadership Roles: Placement Committee President, Converge 3.0 Convener, CareerCon Lead, E-Cell Joint Secretary
 
 ---
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+---
 
 ### 🧠 My Skills
 
