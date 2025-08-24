@@ -5,7 +5,7 @@
   <a href="mailto:raghavgarg.ynr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/raghav-garg-1b8bb0249/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Raghavgarg5541275"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://raghav-garg.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://raghavgarg.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <a href="https://linktr.ee/raghav_garg_ynr"><img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=Linktree&logoColor=white"/></a>
 </p>
 
@@ -89,7 +89,7 @@ Analyzed real inventory datasets using advanced **PostgreSQL** queries to extrac
 
 ### 🔗 Quick Links
 
-- 🌐 Portfolio: [raghav-garg.vercel.app](https://raghav-garg.vercel.app/)
+- 🌐 Portfolio: [raghav-garg.vercel.app](https://raghavgarg.vercel.app/)
 - 🔗 LinkTree: [linktr.ee/raghav_garg_ynr](https://linktr.ee/raghav_garg_ynr)
 - 🧑‍💻 Coding Platform: [Codolio Profile](https://codolio.com/profile/Raghav554/card)
 - 📬 Email: raghavgarg.ynr@gmail.com
