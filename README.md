@@ -89,7 +89,7 @@ Analyzed real inventory datasets using advanced **PostgreSQL** queries to extrac
 
 ### 🔗 Quick Links
 
-- 🌐 Portfolio: [raghav-garg.vercel.app](https://raghavgarg.vercel.app/)
+- 🌐 Portfolio: [raghavgarg.vercel.app](https://raghavgarg.vercel.app/)
 - 🔗 LinkTree: [linktr.ee/raghav_garg_ynr](https://linktr.ee/raghav_garg_ynr)
 - 🧑‍💻 Coding Platform: [Codolio Profile](https://codolio.com/profile/Raghav554/card)
 - 📬 Email: raghavgarg.ynr@gmail.com
